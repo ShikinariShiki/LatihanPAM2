@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LatihanPAM2</string>
+    <string name="nama">Nathanael Kevin Irwanto</string>
+    <string name="nim">NIM: 245150400111059</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="ke_halaman_2">Ke Halaman 2</string>
+</resources>
